@@ -11,7 +11,10 @@
 <h3 align="left">⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking</h3>
 
 <h2 align="left">Languages and Tools:</h2>
-
-
+<img src="https://skillicons.dev/icons?i=flutter">
+<img src="https://skillicons.dev/icons?i=angular">
+<img src="https://skillicons.dev/icons?i=react">
+<img src="https://skillicons.dev/icons?i=net">
+<img src="https://skillicons.dev/icons?i=js">
 <h3 align="left">📫 How to reach me natalia1996herrera@gmail.com</h3>
 
