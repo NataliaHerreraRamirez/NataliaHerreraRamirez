@@ -14,7 +14,13 @@
 <img src="https://skillicons.dev/icons?i=flutter"><img src="https://skillicons.dev/icons?i=angular"><img src="https://skillicons.dev/icons?i=angular"><img src="https://skillicons.dev/icons?i=react"><img src="https://skillicons.dev/icons?i=net"><img src="https://skillicons.dev/icons?i=js">
 
 
-
+<p align="left">
+  <img src="URL_DE_FLUTTER" alt="Flutter" width="50px"><br>
+  <img src="URL_DE_ANGULAR" alt="Angular" width="50px"><br>
+  <img src="URL_DE_REACT" alt="React" width="50px"><br>
+  <img src="URL_DE_DOTNET" alt=".NET" width="50px"><br>
+  <img src="URL_DE_JAVASCRIPT" alt="JavaScript" width="50px">
+</p>
 
 <h3 align="left">📫 How to reach me natalia1996herrera@gmail.com</h3>
 
