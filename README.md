@@ -1,17 +1,40 @@
-<div aling="center">
-<h1 align="center">Hi 👋, I'm Natalia</h1>
+<div align="center">
+  <a href="https://ibb.co/JBGFRbp"><img src="https://i.ibb.co/WxMpWdz/Banner.png" alt="Banner"></a>
 </div>
-<img src="">
-<h2 align="left">About me:</h2>
-<h3 align="left">⚙️ Full-Stack Developer, Passionate about Software Development and Technological Projects.</h3>
 
-<h3 align="left">🌍 I'm mostly active within the React Community</h3>
-<h3 align="left">⏳ Exploring Google Cloud & Microsoft Azure</h3>
-<h3 align="left">⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking</h3>
+###
 
-<h2 align="left">Languages and Tools:</h2>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-<p align="left">
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">Hi 👋, I'm Natalia</h1>
+
+###
+
+<h3 align="left">About Me</h3>
+
+###
+
+<p align="left">⚙️ Full-Stack Developer, Passionate about Software Development and Technological Projects<br>🌍 I'm mostly active within the React Community<br>⏳ Exploring Google Cloud & Microsoft Azure<br>⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=flutter">
   <img src="https://skillicons.dev/icons?i=angular">
   <img src="https://skillicons.dev/icons?i=react">
@@ -27,7 +50,12 @@
   <img src="https://skillicons.dev/icons?i=c#">
   <img src="https://skillicons.dev/icons?i=blender">
   <img src="https://skillicons.dev/icons?i=unity">
-</p>
+</div>
 
+###
 
-<h3 align="left">📫 How to reach me natalia1996herrera@gmail.com</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
