@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <div align="center">
-  <a href="https://ibb.co/4VHH7kk"><img src="https://i.ibb.co/Tgsskyy/Banner-2.png" alt="Banner-2" border="0"></a>
+  <a href="https://ibb.co/YcGfhCV"><img src="https://i.ibb.co/CbFVQcS/Banner-1500-x-500-px.png" alt="Banner-1500-x-500-px" border="0"></a>
 </div>
 
 ###
